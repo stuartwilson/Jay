@@ -1,0 +1,10 @@
+{
+	"dt" : 0.01,
+	"noiseGain" : 0.1,
+	"svgpath" : "circle.svg",
+	"steps": 5000,
+	"win_height" : 500,
+	"win_width" :  500,
+	"plotevery" : 10,
+	"saveplots" : false
+}
